@@ -1,0 +1,14 @@
+{
+  "name": "assignment_automation_ostad",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.2.2",
+    "@wdio/cli": "^9.2.8",
+    "@wdio/local-runner": "^9.2.8",
+    "@wdio/mocha-framework": "^9.2.8",
+    "@wdio/visual-service": "^6.2.1"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.32.0"
+  }
+}
